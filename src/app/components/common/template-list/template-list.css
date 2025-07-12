@@ -1,0 +1,8 @@
+.template-list {
+    list-style: none;
+}
+
+.template-list li {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+}
